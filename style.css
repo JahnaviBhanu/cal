@@ -1,0 +1,27 @@
+.division{
+    margin-left: 400px;
+    margin-right:430px;
+    margin-top: 100px;
+     border:1px solid black;
+     background-image:linear-gradient(to left top,white,rgb(15, 139, 143));;
+     width:200px;
+     height:200px;
+     box-shadow: 0 0 50px white;
+ }
+ body{
+     background-image:url('calci.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ h2{
+     text-align: center;
+ }
+ .division input{
+     background-image:linear-gradient(rgb(119, 206, 243),white);
+ }
+ .division .btn{
+    height:35px;
+    width:35px;
+    border-radius:20%;
+    border:2px solid black;
+ }
